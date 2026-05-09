@@ -1,0 +1,18 @@
+
+> streambox@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.0
+  - Local:        http://localhost:3001
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 6.9s (888 modules)
+✅ Popular movies loaded: 20 items
+✅ Trending TV shows loaded: 20 items
+✅ Top rated movies loaded: 20 items
+✅ Trending movies loaded: 20 items
+ ✓ Compiled in 791ms (367 modules)
+ GET / 200 in 8096ms
